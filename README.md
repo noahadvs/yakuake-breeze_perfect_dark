@@ -10,4 +10,4 @@ The perfect Breeze Dark theme for Yakuake
 
     git clone https://github.com/noahadvs/yakuake-breeze_perfect_dark.git ~/.local/share/yakuake/kns_skins/yakuake-breeze_perfect_dark
 
-There are scripts in the `customizations` folder that you can use to customize the theme.
+There are scripts in the `customizations` folder that you can use to customize the theme. Inkscape must be installed in order for them to work.
