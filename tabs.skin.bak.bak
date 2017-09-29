@@ -4,7 +4,7 @@ Author=Noah Davis (based on Breeze by Andreas Kainz)
 Email=noahadvs@gmail.com
 Icon=/icon.png
 
-[Tabs] Do not change the line number of the x parameter! You will mess up the scripts!
+[Tabs]
 x=19
 y=0
 red=252
@@ -33,7 +33,7 @@ up_image=/tabs/add_up.png
 over_image=/tabs/add_over.png
 down_image=/tabs/add_down.png
 
-[MinusButton] Do not change the line number of the x parameter! You will mess up the scripts!
+[MinusButton]
 x=20
 y=0
 up_image=/tabs/close_up.png

@@ -7,11 +7,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 20 28"
+   viewBox="0 0 28 28"
    version="1.1"
    id="svg6"
-   sodipodi:docname="close_over.svg"
-   width="20"
+   sodipodi:docname="close_over-square.svg"
+   width="28"
    height="28"
    inkscape:export-filename="/home/noah/.local/share/yakuake/kns_skins/breeze_custom/tabs/close_over.png"
    inkscape:export-xdpi="96"
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,9 +42,9 @@
      inkscape:window-height="1051"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="-49.965911"
-     inkscape:cy="16.749936"
+     inkscape:zoom="14.75"
+     inkscape:cx="13.976374"
+     inkscape:cy="4.8446928"
      inkscape:window-x="60"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -69,7 +69,7 @@
   <rect
      style="opacity:1;fill:#31363b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
      id="rect819"
-     width="20"
+     width="28"
      height="28"
      x="0"
      y="0" />
@@ -83,7 +83,7 @@
   <rect
      style="opacity:1;fill:#64686b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
      id="rect820"
-     width="18"
+     width="26"
      height="1"
      x="1"
      y="27" />
@@ -92,12 +92,12 @@
      id="rect822"
      width="1"
      height="26"
-     x="19"
+     x="27"
      y="1" />
   <rect
      style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
      id="rect824"
-     width="18"
+     width="26"
      height="1"
      x="1"
      y="0" />
@@ -106,12 +106,12 @@
      id="rect826"
      width="6"
      height="6"
-     x="7"
-     y="12" />
+     x="11"
+     y="11" />
   <path
      style="color:#da4453;fill:currentColor;fill-opacity:1;stroke:none"
      class="ColorScheme-NegativeText"
-     d="m 10,9 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z M 7.70703,12 10,14.29297 12.29297,12 13,12.70703 10.70703,15 13,17.29297 12.29297,18 10,15.70703 7.70703,18 7,17.29297 9.29297,15 7,12.70703 Z"
+     d="m 14,8 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z M 11.70703,11 14,13.29297 16.29297,11 17,11.70703 14.70703,14 17,16.29297 16.29297,17 14,14.70703 11.70703,17 11,16.29297 13.29297,14 11,11.70703 Z"
      id="path4"
      inkscape:connector-curvature="0" />
 </svg>

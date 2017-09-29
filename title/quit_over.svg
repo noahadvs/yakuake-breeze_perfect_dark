@@ -10,9 +10,9 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg8"
-   sodipodi:docname="quit_up.svg"
+   sodipodi:docname="quit_over.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   inkscape:export-filename="/home/noah/.local/share/yakuake/kns_skins/yakuake-breeze_perfect_dark/title/quit_up.png"
+   inkscape:export-filename="/home/noah/.local/share/yakuake/kns_skins/yakuake-breeze_perfect_dark/title/quit_over.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -55,7 +55,7 @@
      id="g6">
     <path
        d="m 432.71429,528.79074 a 8,8.00001 0 0 0 -8,8 8,8.00001 0 0 0 8,8 8,8.00001 0 0 0 8,-8 8,8.00001 0 0 0 -8,-8 m -3.29297,4 3.29297,3.29297 3.29297,-3.29297 0.70703,0.70703 -3.29297,3.29297 3.29297,3.29297 -0.70703,0.70703 -3.29297,-3.29297 -3.29297,3.29297 -0.70703,-0.70703 3.29297,-3.29297 -3.29297,-3.29297 0.70703,-0.70703"
-       style="fill:#fcfcfc"
+       style="fill:#ff98a2"
        id="path4"
        inkscape:connector-curvature="0" />
   </g>
