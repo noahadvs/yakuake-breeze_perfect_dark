@@ -10,7 +10,7 @@
    viewBox="0 0 20 28"
    version="1.1"
    id="svg6"
-   sodipodi:docname="close_down.svg"
+   sodipodi:docname="close_down-slim.svg"
    width="20"
    height="28"
    inkscape:export-filename="/home/noah/.local/share/yakuake/kns_skins/breeze_custom/tabs/close_down.png"
@@ -43,7 +43,7 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="-8.1841721"
+     inkscape:cx="23.680899"
      inkscape:cy="17.26387"
      inkscape:window-x="60"
      inkscape:window-y="0"
@@ -73,34 +73,56 @@
      height="28"
      x="0"
      y="0" />
-  <rect
-     style="opacity:1;fill:#31363b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-     id="rect824"
-     width="1"
-     height="1"
-     x="0"
-     y="0" />
-  <rect
-     style="opacity:1;fill:#31363b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-     id="rect837"
-     width="1"
-     height="1"
-     x="19"
-     y="0" />
-  <rect
-     style="opacity:1;fill:#31363b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-     id="rect839"
-     width="1"
-     height="1"
-     x="19"
-     y="27" />
-  <rect
-     style="opacity:1;fill:#31363b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-     id="rect841"
-     width="1"
-     height="1"
-     x="0"
-     y="27" />
+  <g
+     transform="translate(-20)"
+     id="g839">
+    <rect
+       y="0"
+       x="39"
+       height="1"
+       width="1"
+       id="rect820"
+       style="opacity:1;fill:#34383d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="1"
+       x="39"
+       height="1"
+       width="1"
+       id="rect820-5-6"
+       style="opacity:1;fill:#454748;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="0"
+       x="38"
+       height="1"
+       width="1"
+       id="rect820-5-2"
+       style="opacity:1;fill:#454748;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,-20,28)"
+     id="g839-3">
+    <rect
+       y="0"
+       x="39"
+       height="1"
+       width="1"
+       id="rect820-6"
+       style="opacity:1;fill:#34383d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="1"
+       x="39"
+       height="1"
+       width="1"
+       id="rect820-5-6-7"
+       style="opacity:1;fill:#454748;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="0"
+       x="38"
+       height="1"
+       width="1"
+       id="rect820-5-2-5"
+       style="opacity:1;fill:#454748;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
   <rect
      style="opacity:1;fill:#fcfcfc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
      id="rect822"
@@ -108,10 +130,60 @@
      height="6"
      x="7"
      y="11" />
+  <g
+     transform="rotate(-180,20,14)"
+     id="g839-35">
+    <rect
+       y="0"
+       x="39"
+       height="1"
+       width="1"
+       id="rect820-62"
+       style="opacity:1;fill:#34383d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="1"
+       x="39"
+       height="1"
+       width="1"
+       id="rect820-5-6-9"
+       style="opacity:1;fill:#454748;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="0"
+       x="38"
+       height="1"
+       width="1"
+       id="rect820-5-2-1"
+       style="opacity:1;fill:#454748;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
   <path
      style="color:#da4453;fill:currentColor;fill-opacity:1;stroke:none"
      class="ColorScheme-NegativeText"
      d="m 10,8 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z M 7.70703,11 10,13.29297 12.29297,11 13,11.70703 10.70703,14 13,16.29297 12.29297,17 10,14.70703 7.70703,17 7,16.29297 9.29297,14 7,11.70703 Z"
      id="path4"
      inkscape:connector-curvature="0" />
+  <g
+     transform="matrix(-1,0,0,1,40,0)"
+     id="g839-2">
+    <rect
+       y="0"
+       x="39"
+       height="1"
+       width="1"
+       id="rect820-7"
+       style="opacity:1;fill:#34383d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="1"
+       x="39"
+       height="1"
+       width="1"
+       id="rect820-5-6-0"
+       style="opacity:1;fill:#454748;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="0"
+       x="38"
+       height="1"
+       width="1"
+       id="rect820-5-2-9"
+       style="opacity:1;fill:#454748;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
 </svg>

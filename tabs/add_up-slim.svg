@@ -10,7 +10,7 @@
    viewBox="0 0 20 28"
    version="1.1"
    id="svg6"
-   sodipodi:docname="add_up.svg"
+   sodipodi:docname="add_up-slim.svg"
    width="20"
    height="28"
    inkscape:export-filename="/home/noah/.local/share/yakuake/kns_skins/breeze_custom/tabs/add_up.png"
@@ -43,7 +43,7 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="-1.4679185"
+     inkscape:cx="-19.493149"
      inkscape:cy="6.1446139"
      inkscape:window-x="60"
      inkscape:window-y="0"
@@ -93,4 +93,70 @@
      height="26"
      x="19"
      y="1" />
+  <g
+     transform="translate(-20)"
+     id="g856">
+    <rect
+       y="1"
+       x="38"
+       height="1"
+       width="1"
+       id="rect849"
+       style="opacity:1;fill:#454a4e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="0"
+       x="38"
+       height="1"
+       width="1"
+       id="rect843"
+       style="opacity:1;fill:#5a5e62;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="1"
+       x="39"
+       height="1"
+       width="1"
+       id="rect845"
+       style="opacity:1;fill:#5a5e62;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="0"
+       x="39"
+       height="1"
+       width="1"
+       id="rect847"
+       style="opacity:1;fill:#33383d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <g
+     id="g873-3-5"
+     transform="rotate(-90,22.4375,22.0625)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path822-6-6-6"
+       d="M 43.5,0.62500009 V 1.6250001 h 1 v -1.00000001 0 z"
+       style="fill:#575d63;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       y="1.6250001"
+       x="43.5"
+       height="1"
+       width="1"
+       id="rect824-7-7-2"
+       style="opacity:1;fill:#5d6266;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <g
+     id="g873-3"
+     transform="rotate(180,31.75,13.8125)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path822-6-6"
+       d="M 43.5,0.62500009 V 1.6250001 h 1 v -1.00000001 0 z"
+       style="fill:#575d63;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cccccc" />
+    <rect
+       y="1.6250001"
+       x="43.5"
+       height="1"
+       width="1"
+       id="rect824-7-7"
+       style="opacity:1;fill:#5d6266;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
 </svg>
