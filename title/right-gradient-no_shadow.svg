@@ -11,7 +11,7 @@
    viewBox="0 0 30 30"
    version="1.1"
    id="svg24"
-   sodipodi:docname="right_gradient.svg"
+   sodipodi:docname="right-gradient-no_shadow.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata28">
@@ -36,25 +36,29 @@
      inkscape:window-width="1860"
      inkscape:window-height="1051"
      id="namedview26"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="7.8666667"
-     inkscape:cx="-14.110169"
-     inkscape:cy="13.983051"
+     inkscape:cx="13.986981"
+     inkscape:cy="-15.761428"
      inkscape:window-x="60"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg24" />
+     inkscape:current-layer="svg24">
+    <inkscape:grid
+       type="xygrid"
+       id="grid825" />
+  </sodipodi:namedview>
   <defs
      id="defs10">
     <linearGradient
        xlink:href="#2"
        id="3"
-       x1="48.35"
-       y1="32.21"
-       x2="48.41"
-       y2="12.318"
+       x1="47.889893"
+       y1="32.245758"
+       x2="47.889893"
+       y2="12.167453"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.23951 0 0 1.49415 509.36 564.94)" />
+       gradientTransform="matrix(1.23951,0,0,1.49415,509.36,564.94)" />
     <linearGradient
        id="2">
       <stop
@@ -67,46 +71,45 @@
          style="stop-color:#31363b;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       y2="12.318"
-       x2="48.41"
-       y1="32.21"
-       x1="48.35"
-       gradientTransform="matrix(.41317 0 0 1.24513 558.94 567.97)"
+       y2="12.167404"
+       x2="47.873756"
+       y1="36.261272"
+       x1="47.873756"
+       gradientTransform="matrix(0.41317,0,0,1.24513,558.94,567.97)"
        gradientUnits="userSpaceOnUse"
        id="0"
        xlink:href="#2" />
     <linearGradient
-       y2="12.318"
-       x2="48.41"
-       y1="32.21"
-       x1="48.35"
-       gradientTransform="matrix(.41317 0 0 1.49415 538.94 564.94)"
+       y2="12.167453"
+       x2="47.873756"
+       y1="32.245758"
+       x1="47.873756"
+       gradientTransform="matrix(0.41317,0,0,1.49415,538.94,564.94)"
        gradientUnits="userSpaceOnUse"
        id="1"
        xlink:href="#2" />
   </defs>
   <g
-     transform="translate(-553.72-583.12)"
-     id="g22">
-    <g
-       color="#000"
-       id="g18">
-      <path
-         fill="url(#0)"
-         d="m573.72 583.12h10v25h-10z"
-         id="path12" />
-      <rect
-         width="30"
-         height="30"
-         x="553.72"
-         y="583.12"
-         fill="url(#3)"
-         rx="4"
-         id="rect14" />
-      <path
-         fill="url(#1)"
-         d="m553.72 583.12h10v30h-10z"
-         id="path16" />
-    </g>
+     transform="translate(-553.72,-583.12)"
+     style="color:#000000"
+     id="g18">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 573.72,583.12 h 10 v 25 h -10 z"
+       id="path12"
+       style="fill:url(#0)" />
+    <rect
+       width="30"
+       height="30"
+       x="553.71997"
+       y="583.12"
+       rx="4"
+       id="rect14"
+       style="fill:url(#3)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 553.72,583.12 h 10 v 30 h -10 z"
+       id="path16"
+       style="fill:url(#1)" />
   </g>
 </svg>

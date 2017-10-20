@@ -41,8 +41,8 @@
      id="namedview26"
      showgrid="true"
      inkscape:zoom="11.313709"
-     inkscape:cx="15.18613"
-     inkscape:cy="8.4997607"
+     inkscape:cx="-18.047887"
+     inkscape:cy="22.641896"
      inkscape:window-x="60"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -112,6 +112,63 @@
        x2="14.999999"
        y2="38.000008"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       y2="12.167404"
+       x2="47.873756"
+       y1="36.261272"
+       x1="47.873756"
+       gradientTransform="matrix(0.41317,0,0,1.24513,558.94,567.97)"
+       gradientUnits="userSpaceOnUse"
+       id="0-3"
+       xlink:href="#2" />
+    <linearGradient
+       xlink:href="#2"
+       id="3-5"
+       x1="47.889893"
+       y1="32.245758"
+       x2="47.889893"
+       y2="12.167453"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.23951,0,0,1.49415,509.36,564.94)" />
+    <linearGradient
+       y2="12.167453"
+       x2="47.873756"
+       y1="32.245758"
+       x1="47.873756"
+       gradientTransform="matrix(0.41317,0,0,1.49415,538.94,564.94)"
+       gradientUnits="userSpaceOnUse"
+       id="1-3"
+       xlink:href="#2" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#2"
+       id="linearGradient888"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.41317,0,0,1.24513,558.94,567.97)"
+       x1="47.873756"
+       y1="36.261272"
+       x2="47.873756"
+       y2="12.167404" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#2"
+       id="linearGradient890"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.23951,0,0,1.49415,509.36,564.94)"
+       x1="47.889893"
+       y1="32.245758"
+       x2="47.889893"
+       y2="12.167453" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#2"
+       id="linearGradient892"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.41317,0,0,1.49415,538.94,564.94)"
+       x1="47.873756"
+       y1="32.245758"
+       x2="47.873756"
+       y2="12.167453" />
   </defs>
   <rect
      style="opacity:0.35;fill:url(#linearGradient847);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -122,28 +179,25 @@
      y="22" />
   <g
      transform="translate(-553.72,-583.12)"
-     id="g22">
-    <g
-       id="g18"
-       style="color:#000000">
-      <path
-         d="m 573.72,583.12 h 10 v 25 h -10 z"
-         id="path12"
-         inkscape:connector-curvature="0"
-         style="fill:url(#0)" />
-      <rect
-         width="30"
-         height="30"
-         x="553.71997"
-         y="583.12"
-         rx="4"
-         id="rect14"
-         style="fill:url(#3)" />
-      <path
-         d="m 553.72,583.12 h 10 v 30 h -10 z"
-         id="path16"
-         inkscape:connector-curvature="0"
-         style="fill:url(#1)" />
-    </g>
+     style="color:#000000"
+     id="g18-0">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 573.72,583.12 h 10 v 25 h -10 z"
+       id="path12-6"
+       style="fill:url(#linearGradient888)" />
+    <rect
+       width="30"
+       height="30"
+       x="553.71997"
+       y="583.12"
+       rx="4"
+       id="rect14-2"
+       style="fill:url(#linearGradient890)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 553.72,583.12 h 10 v 30 h -10 z"
+       id="path16-6"
+       style="fill:url(#linearGradient892)" />
   </g>
 </svg>

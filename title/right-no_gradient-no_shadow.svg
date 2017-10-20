@@ -10,7 +10,7 @@
    viewBox="0 0 30 30"
    version="1.1"
    id="svg24"
-   sodipodi:docname="right_nogradient.svg"
+   sodipodi:docname="right-no_gradient-no_shadow.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    inkscape:export-filename="/home/noah/.local/share/yakuake/kns_skins/breeze_perfect_dark-no_gradient/title/right.png"
    inkscape:export-xdpi="96"
@@ -38,43 +38,41 @@
      inkscape:window-width="1860"
      inkscape:window-height="1051"
      id="namedview26"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="7.8666667"
-     inkscape:cx="-22.881356"
+     inkscape:cx="-11.186441"
      inkscape:cy="12.966102"
      inkscape:window-x="60"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg24" />
+     inkscape:current-layer="svg24">
+    <inkscape:grid
+       type="xygrid"
+       id="grid843" />
+  </sodipodi:namedview>
   <defs
      id="defs10" />
   <g
-     transform="translate(-553.72-583.12)"
-     id="g22"
-     style="fill:#31363b;fill-opacity:1">
-    <g
-       color="#000"
-       id="g18"
-       style="fill:#31363b;fill-opacity:1">
-      <path
-         fill="url(#0)"
-         d="m573.72 583.12h10v25h-10z"
-         id="path12"
-         style="fill:#31363b;fill-opacity:1" />
-      <rect
-         width="30"
-         height="30"
-         x="553.72"
-         y="583.12"
-         fill="url(#3)"
-         rx="4"
-         id="rect14"
-         style="fill:#31363b;fill-opacity:1" />
-      <path
-         fill="url(#1)"
-         d="m553.72 583.12h10v30h-10z"
-         id="path16"
-         style="fill:#31363b;fill-opacity:1" />
-    </g>
+     transform="translate(-553.72,-583.12)"
+     id="g18"
+     style="color:#000000;fill:#31363b;fill-opacity:1">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 573.72,583.12 h 10 v 25 h -10 z"
+       id="path12"
+       style="fill:#31363b;fill-opacity:1" />
+    <rect
+       width="30"
+       height="30"
+       x="553.71997"
+       y="583.12"
+       rx="4"
+       id="rect14"
+       style="fill:#31363b;fill-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 553.72,583.12 h 10 v 30 h -10 z"
+       id="path16"
+       style="fill:#31363b;fill-opacity:1" />
   </g>
 </svg>
