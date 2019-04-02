@@ -23,4 +23,4 @@ cd ~/.local/share/yakuake/kns_skins/yakuake-breeze_perfect_dark
 git fetch origin && git pull
 ```
 
-There are scripts in the `customizations` folder that you can use to customize the theme. Inkscape must be installed in order for them to work.
+There are scripts in the `customizations` folder that you can use to customize the theme.
